@@ -1,0 +1,7 @@
+git clone (link copied from github)
+git touch file1.txt file2.txt
+git add . // git file1.txt
+git commit -m "added new files"
+git status
+git push -u origin main
+(enter github username and token)
